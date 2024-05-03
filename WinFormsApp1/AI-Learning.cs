@@ -31,6 +31,7 @@ namespace WinFormsApp1
         {
             File.AppendAllText("dictionary.txt", $"{textBox1.Text}\n");
             this.Hide();
+            Game.currentResult = "";
             new Splash().Show();
         }
     }
