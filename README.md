@@ -20,7 +20,7 @@ This project is an implementation of the classic Hangman game, but with an AI co
 
 ## Demo
 
-[https://youtu.be/hrzhTrWklB]
+[https://youtu.be/hrzhTrWklBI]
 
 ## Features
 
